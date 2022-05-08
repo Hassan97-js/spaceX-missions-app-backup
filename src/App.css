@@ -1,0 +1,8 @@
+div.App {
+  position: relative;
+  min-height: 100vh;
+}
+
+div.content-wrap {
+  padding-bottom: 5.5rem;
+}
